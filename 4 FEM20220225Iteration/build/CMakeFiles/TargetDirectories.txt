@@ -1,0 +1,7 @@
+/home/jeff/Downloads/FEM20220225Iteration/build/CMakeFiles/install/strip.dir
+/home/jeff/Downloads/FEM20220225Iteration/build/CMakeFiles/install/local.dir
+/home/jeff/Downloads/FEM20220225Iteration/build/CMakeFiles/install.dir
+/home/jeff/Downloads/FEM20220225Iteration/build/CMakeFiles/list_install_components.dir
+/home/jeff/Downloads/FEM20220225Iteration/build/CMakeFiles/rebuild_cache.dir
+/home/jeff/Downloads/FEM20220225Iteration/build/CMakeFiles/edit_cache.dir
+/home/jeff/Downloads/FEM20220225Iteration/build/CMakeFiles/quadelasticityexplicit.dir

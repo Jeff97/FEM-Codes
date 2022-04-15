@@ -1,0 +1,8 @@
+# The fortran modules provided by this target.
+provides
+ elementutilitiesbasisfuncs.mod
+ elementutilitieselasticity2d.mod
+ elementutilitieselasticity3d.mod
+ elementutilitiespoisson.mod
+ quadratureutilities.mod
+ writervtk.mod

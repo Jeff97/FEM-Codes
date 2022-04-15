@@ -1,0 +1,7 @@
+/home/jeff/Downloads/FEM20220404BlockCompression/build/CMakeFiles/install/strip.dir
+/home/jeff/Downloads/FEM20220404BlockCompression/build/CMakeFiles/install/local.dir
+/home/jeff/Downloads/FEM20220404BlockCompression/build/CMakeFiles/install.dir
+/home/jeff/Downloads/FEM20220404BlockCompression/build/CMakeFiles/list_install_components.dir
+/home/jeff/Downloads/FEM20220404BlockCompression/build/CMakeFiles/rebuild_cache.dir
+/home/jeff/Downloads/FEM20220404BlockCompression/build/CMakeFiles/edit_cache.dir
+/home/jeff/Downloads/FEM20220404BlockCompression/build/CMakeFiles/hexelasticityimplicit.dir

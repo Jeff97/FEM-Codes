@@ -1,0 +1,313 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make.exe: *** No rule to make target 'all'.  Stop.
+
+# GNU Make 4.2.1
+# Built for x86_64-w64-mingw32
+# Copyright (C) 1988-2016 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Thu Apr 14 11:33:53 2022
+
+# Variables
+
+# 'override' directive
+GNUMAKEFLAGS := 
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# automatic
+?F = $(notdir $?)
+# default
+.SHELLFLAGS := -c
+# makefile
+MAKEFLAGS = pqrR
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+HOMEDRIVE = C:
+# automatic
+@F = $(notdir $@)
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# makefile
+CURDIR := d:/OneDrive - mail.scut.edu.cn/2 Mokarram's Group Affairs/AllFEMCode/FEM20220225Iteration
+# default
+SHELL := sh.exe
+# environment
+WINDIR = C:\Windows
+# environment
+VSCODE_NLS_CONFIG = {"locale":"zh-cn","availableLanguages":{"*":"zh-cn"},"_languagePackId":"1a7316c624e1dd66d26cf581ee0fb4ca.zh-cn","_translationsConfigFile":"C:\\Users\\Jeff\\AppData\\Roaming\\Code\\clp\\1a7316c624e1dd66d26cf581ee0fb4ca.zh-cn\\tcf.json","_cacheRoot":"C:\\Users\\Jeff\\AppData\\Roaming\\Code\\clp\\1a7316c624e1dd66d26cf581ee0fb4ca.zh-cn","_resolvedLanguagePackCoreLocation":"C:\\Users\\Jeff\\AppData\\Roaming\\Code\\clp\\1a7316c624e1dd66d26cf581ee0fb4ca.zh-cn\\dfd34e8260c270da74b5c2d86d61aee4b6d56977","_corruptedFile":"C:\\Users\\Jeff\\AppData\\Roaming\\Code\\clp\\1a7316c624e1dd66d26cf581ee0fb4ca.zh-cn\\corrupted.info","_languagePackSupport":true}
+# environment
+INTEL_LICENSE_FILE = C:\Program Files (x86)\Common Files\Intel\Licenses
+# environment
+VBOX_MSI_INSTALL_PATH = D:\Program Files\Oracle\VirtualBox\
+# environment
+ONEDRIVE = D:\OneDrive - mail.scut.edu.cn
+# environment
+MSMPI_BIN = C:\Program Files\Microsoft MPI\Bin\
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# makefile
+MAKEFILE_LIST := 
+# environment
+CADOE_LIBDIR192 = D:\Program Files\ANSYS Inc\v192\CommonFiles\Language\en-us
+# environment
+TMP = C:\Users\Jeff\AppData\Local\Temp
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+ANSYS_SYSDIR32 = win32
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-2e19a014-4d05-49eb-bb6e-2095532730d9-sock
+# environment
+VSCODE_CWD = D:\OneDrive - mail.scut.edu.cn\2 Mokarram's Group Affairs\AllFEMCode\FEM20220225Iteration
+# default
+MAKE_HOST := x86_64-w64-mingw32
+# environment
+PATH = D:\SIMULIA\Commands;C:\Program Files\Microsoft MPI\Bin\;D:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.4.245\windows\mpi\intel64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;D:\Program Files\Polyspace\R2020b\bin;D:\Program Files\mingw64\bin;D:\ProgramData\Anaconda3\Scripts;D:\ProgramData\Anaconda3\Library\bin;C:\Users\Jeff\AppData\Local\Microsoft\WindowsApps;C:\Users\Jeff\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program Files\Bandizip\;D:\texlive\2021\bin\win32
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+USERPROFILE = C:\Users\Jeff
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+NOLICENSECHECK = true
+# environment
+IFORT_COMPILER19 = D:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.4.245\windows\
+# environment
+VSCODE_LOG_STACK = false
+# environment
+NUMBER_OF_PROCESSORS = 8
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync
+# automatic
+%F = $(notdir $%)
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_27960_CQTOPTVKZKUJHQUH
+# environment
+ANSYS_SYSDIR = winx64
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+COMPUTERNAME = PRO14
+# environment
+PROGRAMFILES = C:\Program Files
+# default
+.LOADED := 
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+ASL.LOG = Destination=file
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERNAME = Jeff
+# environment
+PUBLIC = C:\Users\Public
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+LSTC_LICENSE = ANSYS
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\Jeff\AppData\Roaming\Code\CachedData\dfd34e8260c270da74b5c2d86d61aee4b6d56977
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# environment
+LOGONSERVER = \\PRO14
+# environment
+ONEDRIVECONSUMER = D:\OneDrive
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# environment
+USERDOMAIN = PRO14
+# environment
+ANSYS192_DIR = D:\Program Files\ANSYS Inc\v192\ANSYS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+ONEDRIVECOMMERCIAL = D:\OneDrive - mail.scut.edu.cn
+# environment
+P_SCHEMA = D:\Program Files\ANSYS Inc\v192\AISOL\CADIntegration\Parasolid\PSchema
+# default
+MAKE_VERSION := 4.2.1
+# makefile
+.DEFAULT_GOAL := 
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# environment
+LOCALAPPDATA = C:\Users\Jeff\AppData\Local
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# default
+.VARIABLES := 
+# automatic
+*F = $(notdir $*)
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 2, GenuineIntel
+# environment
+OS = Windows_NT
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\a8134f520526ba8418d96ca1440485bf-1.66.2-main-sock
+# environment
+HOMEPATH = \Users\Jeff
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+PROMPT = $P$G
+# environment
+MFLAGS = -pqrR
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+# environment
+SYSTEMROOT = C:\Windows
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# environment
+AWP_ROOT192 = D:\Program Files\ANSYS Inc\v192
+# automatic
++F = $(notdir $+)
+# environment
+VS2019INSTALLDIR = D:\Program Files (x86)\Microsoft Visual Studio\2019\Community
+# environment
+I_MPI_ROOT = D:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.4.245\windows\mpi
+# environment
+APPDATA = C:\Users\Jeff\AppData\Roaming
+# environment
+__COMPAT_LAYER = RunAsAdmin
+# environment
+TEMP = C:\Users\Jeff\AppData\Local\Temp
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# default
+MAKEFILES := 
+# environment
+ANS_OLD_ATTACH = 1
+# automatic
+<F = $(notdir $<)
+# environment
+LC_ALL = C
+# automatic
+^F = $(notdir $^)
+# environment
+ICPP_COMPILER19 = D:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.4.245\windows\
+# default
+SUFFIXES := 
+# environment
+SYSTEMDRIVE = C:
+# environment
+PROCESSOR_REVISION = 8c02
+# default
+.RECIPEPREFIX := 
+# environment
+LANG = C
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+VSCODE_PID = 27960
+# environment
+USERDOMAIN_ROAMINGPROFILE = PRO14
+# variable set hash-table stats:
+# Load=111/1024=11%, Rehash=0, Collisions=16/129=12%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key d:/OneDrive - mail.scut.edu.cn/2 Mokarram's Group Affairs/AllFEMCode/FEM20220225Iteration, mtime 1645833234): 6 files, no impossibilities.
+
+# 6 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+makefile.mak:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+GNUmakefile:
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+
+# files hash-table stats:
+# Load=7/1024=1%, Rehash=0, Collisions=0/16=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 13 / storage = 96 B / avg = 7 B
+# current buf: size = 8162 B / used = 96 B / count = 13 / avg = 7 B
+
+# strcache performance: lookups = 15 / hit rate = 13%
+# hash-table stats:
+# Load=13/8192=0%, Rehash=0, Collisions=1/15=7%
+# Finished Make data base on Thu Apr 14 11:33:53 2022
+
+ 
