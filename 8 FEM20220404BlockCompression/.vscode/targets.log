@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Apr 15 14:15:25 2022
+# Make data base, printed on Wed Apr 20 09:24:17 2022
 
 # Variables
 
@@ -35,7 +35,7 @@ HOMEDRIVE = C:
 # automatic
 ^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
 # makefile
-CURDIR := d:/OneDrive - mail.scut.edu.cn/2 Mokarram's Group Affairs/AllFEMCode/FEM20220404BlockCompression
+CURDIR := d:/OneDrive - mail.scut.edu.cn/2 Mokarram's Group Affairs/FEM-Codes/8 FEM20220404BlockCompression
 # default
 SHELL := sh.exe
 # environment
@@ -67,13 +67,13 @@ PROGRAMDATA = C:\ProgramData
 # environment
 ANSYS_SYSDIR32 = win32
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-a1611def-fd41-4698-97c8-3d1c043c33c1-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-1ee63495-95bc-49f0-8482-496bae605327-sock
 # environment
-VSCODE_CWD = D:\OneDrive - mail.scut.edu.cn\2 Mokarram's Group Affairs\AllFEMCode\FEM20220404BlockCompression
+VSCODE_CWD = D:\OneDrive - mail.scut.edu.cn\2 Mokarram's Group Affairs\FEM-Codes\8 FEM20220404BlockCompression
 # default
 MAKE_HOST := x86_64-w64-mingw32
 # environment
-PATH = D:\SIMULIA\Commands;C:\Program Files\Microsoft MPI\Bin\;D:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.4.245\windows\mpi\intel64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;D:\Program Files\Polyspace\R2020b\bin;D:\Program Files\mingw64\bin;D:\ProgramData\Anaconda3\Scripts;D:\ProgramData\Anaconda3\Library\bin;C:\Users\Jeff\AppData\Local\Microsoft\WindowsApps;C:\Users\Jeff\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program Files\Bandizip\;D:\texlive\2021\bin\win32
+PATH = D:\SIMULIA\Commands;C:\Program Files\Microsoft MPI\Bin\;D:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.4.245\windows\mpi\intel64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;D:\Program Files\Polyspace\R2020b\bin;D:\Program Files\mingw64\bin;D:\ProgramData\Anaconda3\Scripts;D:\ProgramData\Anaconda3\Library\bin;C:\Users\Jeff\AppData\Local\Microsoft\WindowsApps;C:\Users\Jeff\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program Files\Bandizip\;D:\texlive\2021\bin\win32;C:\Users\Jeff\AppData\Local\GitHubDesktop\bin
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # environment
@@ -99,7 +99,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_10488_JJXWMFFEZYTEJQJL
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_12456_MSRIXUHLQOOFAFLK
 # environment
 ANSYS_SYSDIR = winx64
 # environment
@@ -231,7 +231,7 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 10488
+VSCODE_PID = 12456
 # environment
 USERDOMAIN_ROAMINGPROFILE = PRO14
 # variable set hash-table stats:
@@ -243,7 +243,7 @@ USERDOMAIN_ROAMINGPROFILE = PRO14
 
 # Directories
 
-# . (key d:/OneDrive - mail.scut.edu.cn/2 Mokarram's Group Affairs/AllFEMCode/FEM20220404BlockCompression, mtime 1649066134): 8 files, no impossibilities.
+# . (key d:/OneDrive - mail.scut.edu.cn/2 Mokarram's Group Affairs/FEM-Codes/8 FEM20220404BlockCompression, mtime 1649066134): 8 files, no impossibilities.
 
 # 8 files, no impossibilities in 1 directories.
 
@@ -308,6 +308,6 @@ GNUmakefile:
 # strcache performance: lookups = 17 / hit rate = 11%
 # hash-table stats:
 # Load=15/8192=0%, Rehash=0, Collisions=1/17=6%
-# Finished Make data base on Fri Apr 15 14:15:25 2022
+# Finished Make data base on Wed Apr 20 09:24:17 2022
 
  

@@ -8,7 +8,7 @@ make.exe: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Apr 14 16:22:50 2022
+# Make data base, printed on Sun May 01 15:29:51 2022
 
 # Variables
 
@@ -35,7 +35,7 @@ HOMEDRIVE = C:
 # automatic
 ^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
 # makefile
-CURDIR := d:/OneDrive - mail.scut.edu.cn/2 Mokarram's Group Affairs/AllFEMCode/FEM20220306NeoHookean
+CURDIR := d:/OneDrive - mail.scut.edu.cn/2 Mokarram's Group Affairs/FEM-Codes/5 FEM20220306NeoHookean
 # default
 SHELL := sh.exe
 # environment
@@ -67,13 +67,13 @@ PROGRAMDATA = C:\ProgramData
 # environment
 ANSYS_SYSDIR32 = win32
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-cb79a32e-a66a-4d43-89b8-d19c7edebaf8-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-376760ef-d26c-49c5-aa4f-d315224f2079-sock
 # environment
-VSCODE_CWD = D:\OneDrive - mail.scut.edu.cn\2 Mokarram's Group Affairs\AllFEMCode\FEM20220306NeoHookean
+VSCODE_CWD = D:\OneDrive - mail.scut.edu.cn\2 Mokarram's Group Affairs\FEM-Codes\5 FEM20220306NeoHookean
 # default
 MAKE_HOST := x86_64-w64-mingw32
 # environment
-PATH = D:\SIMULIA\Commands;C:\Program Files\Microsoft MPI\Bin\;D:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.4.245\windows\mpi\intel64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;D:\Program Files\Polyspace\R2020b\bin;D:\Program Files\mingw64\bin;D:\ProgramData\Anaconda3\Scripts;D:\ProgramData\Anaconda3\Library\bin;C:\Users\Jeff\AppData\Local\Microsoft\WindowsApps;C:\Users\Jeff\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program Files\Bandizip\;D:\texlive\2021\bin\win32
+PATH = D:\SIMULIA\Commands;C:\Program Files\Microsoft MPI\Bin\;D:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.4.245\windows\mpi\intel64\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;D:\Program Files\Polyspace\R2020b\bin;D:\Program Files\mingw64\bin;D:\ProgramData\Anaconda3\Scripts;D:\ProgramData\Anaconda3\Library\bin;C:\Users\Jeff\AppData\Local\Microsoft\WindowsApps;C:\Users\Jeff\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program Files\Bandizip\;D:\texlive\2021\bin\win32;C:\Users\Jeff\AppData\Local\GitHubDesktop\bin
 # environment
 COMMONPROGRAMW6432 = C:\Program Files\Common Files
 # environment
@@ -99,7 +99,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_24656_ZUQNDMMZIQCASALD
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_14508_JUXNFDRWFBWBYGVX
 # environment
 ANSYS_SYSDIR = winx64
 # environment
@@ -127,7 +127,7 @@ LSTC_LICENSE = ANSYS
 # environment
 VSCODE_CODE_CACHE_PATH = C:\Users\Jeff\AppData\Roaming\Code\CachedData\dfd34e8260c270da74b5c2d86d61aee4b6d56977
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # environment
 COMMONPROGRAMFILES = C:\Program Files\Common Files
 # environment
@@ -201,7 +201,7 @@ I_MPI_ROOT = D:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.4.
 # environment
 APPDATA = C:\Users\Jeff\AppData\Roaming
 # environment
-__COMPAT_LAYER = RunAsAdmin Installer
+__COMPAT_LAYER = RunAsAdmin
 # environment
 TEMP = C:\Users\Jeff\AppData\Local\Temp
 # environment
@@ -231,7 +231,7 @@ LANG = C
 # environment
 PROCESSOR_LEVEL = 6
 # environment
-VSCODE_PID = 24656
+VSCODE_PID = 14508
 # environment
 USERDOMAIN_ROAMINGPROFILE = PRO14
 # variable set hash-table stats:
@@ -243,7 +243,7 @@ USERDOMAIN_ROAMINGPROFILE = PRO14
 
 # Directories
 
-# . (key d:/OneDrive - mail.scut.edu.cn/2 Mokarram's Group Affairs/AllFEMCode/FEM20220306NeoHookean, mtime 1645833234): 6 files, no impossibilities.
+# . (key d:/OneDrive - mail.scut.edu.cn/2 Mokarram's Group Affairs/FEM-Codes/5 FEM20220306NeoHookean, mtime 1645833234): 6 files, no impossibilities.
 
 # 6 files, no impossibilities in 1 directories.
 
@@ -308,6 +308,6 @@ GNUmakefile:
 # strcache performance: lookups = 15 / hit rate = 13%
 # hash-table stats:
 # Load=13/8192=0%, Rehash=0, Collisions=1/15=7%
-# Finished Make data base on Thu Apr 14 16:22:50 2022
+# Finished Make data base on Sun May 01 15:29:51 2022
 
  
